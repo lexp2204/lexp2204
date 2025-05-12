@@ -5,7 +5,7 @@
 
 🌟 Welcome to my GitHub! I'm a Computer Science student and full-stack developer passionate about building modern, scalable web applications. Whether it’s crafting clean UIs or designing efficient backend systems, I love turning ideas into functional software.
 
-🔭 Currently working on expanding my backend architecture skills solidify my skills in by building web applications
+🔭 Currently working on expanding my backend architecture skills solidify my skills in by building web applications!
 
 ---
 
