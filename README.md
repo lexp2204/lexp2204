@@ -1,5 +1,5 @@
 <h2 align="left">Hey there 👋, I'm Alexis Penn!</h2>
-<h3 align="left">🚀 Full-Stack Software Engineer | 💡 Lifelong Learner | 👨‍💻 Code Enthusiast</h3>
+<h3 align="left">🚀 Full-Stack Software Engineer | 💡 Lifelong Learner | Code Enthusiast</h3>
 
 ---
 
